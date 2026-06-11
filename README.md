@@ -1,4 +1,4 @@
-# Global Trade Intelligence Dashboard 🌍📊
+# Global Trade Intelligence Dashboard - VERITRADE🌍📊
 > **Análisis dinámico de importaciones, exportaciones y estrategias de Pricing de la competencia a partir de registros masivos de aduanas.**
 
 Este proyecto automatiza y optimiza el proceso de extracción, transformación y carga (ETL) de datos comerciales masivos de comercio exterior para el sector de salud visual y de dispositivos médicos (líneas oftálmica, quirúrgica y de cuidado ocular). El sistema recopila datos históricos desde la plataforma **Veritrade**, centraliza la información en un entorno analítico y despliega dashboards avanzados que permiten monitorizar el *Market Share*, las cadenas de suministro y las estrategias de precios de los competidores clave en el mercado local.
